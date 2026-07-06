@@ -3,15 +3,15 @@
 }
 
 body{
-    background-color: rgb(248, 169, 72);
+    background-color: rgb(252, 181, 94);
     font-size: 16x;
     color: black;
     font-family: sans-serif;
 }
 
 header{
-    background-color: rgb(0, 47, 255);
-    color: rgb(255, 0, 221);
+    background-color: rgb(252, 162, 52);
+    color:black;
     height: 6em;
 }
 
@@ -28,3 +28,10 @@ img{
     border-radius: 5%;
 }
 
+hr{
+    background-color: black;
+}
+
+main{
+    background-color: black;
+}
