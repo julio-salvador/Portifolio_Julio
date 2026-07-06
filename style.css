@@ -11,5 +11,15 @@ body{
 
 header{
     background-color: beige;
-    height: 4em;
+    color: bisque;
+    height: 6em;
+}
+
+header h1{
+    text-align: center;
+}
+
+img{
+    width: 50%;
+    
 }
