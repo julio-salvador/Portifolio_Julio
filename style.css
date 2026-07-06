@@ -5,8 +5,8 @@
 body{
     background-color: rgb(248, 169, 72);
     font-size: 16x;
-    color: black.;
-
+    color: black;
+    font-family: sans-serif;
 }
 
 header{
@@ -19,7 +19,12 @@ header h1{
     text-align: center;
 }
 
+.pp{
+    text-align: center;
+}
+
 img{
     width: 15%;
     border-radius: 5%;
 }
+
