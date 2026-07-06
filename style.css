@@ -1,1 +1,12 @@
+*{
 
+}
+
+body{
+    background-color: bisque;
+}
+
+header{
+    background-color: beige;
+    height: 4em;
+}
