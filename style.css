@@ -35,3 +35,7 @@ hr{
 main{
     background-color: rgb(252, 162, 52);
 }
+
+p {
+    text-indent: 2em;
+}
